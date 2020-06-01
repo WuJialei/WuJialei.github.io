@@ -5,6 +5,7 @@
 **1 Flink知识总结**
 
 - [关于Flink的学习总结](https://github.com/WuJialei/Accumulation/blob/master/28.关于Flink的学习总结.md)
+
 **2 Flink的应用实践**
 
 - [Flink使用ObjectMapper反序列化json字符串与解析vxlan数据包](https://github.com/WuJialei/Accumulation/blob/master/10.flink%E4%BD%BF%E7%94%A8ObjectMapper%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96json%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%8E%E8%A7%A3%E6%9E%90vxlan%E6%95%B0%E6%8D%AE%E5%8C%85.md)
